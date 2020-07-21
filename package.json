@@ -1,0 +1,13 @@
+{
+  "name": "weather-kyhong222",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kyhong222/weather-kyhong222.git",
+  "author": "DayDream <kyhong222@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "yarn": "^1.22.4"
+  }
+}
